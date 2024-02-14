@@ -2,7 +2,7 @@
 //  Movie.swift
 //  Flixster
 //
-//  Created by user253148 on 2/7/24.
+//  Created by Makhtar Junior Niang on 2/7/24.
 //
 
 import Foundation
